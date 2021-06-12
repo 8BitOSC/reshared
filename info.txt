@@ -32,7 +32,7 @@ https://stackoverflow.com
 The Scratch Foundation, for existing
 https://scratch.mit.edu/credits
 
-Wikimedia, for the info icon (modified by me)
+Wikimedia, for the info icon
 https://commons.wikimedia.org/wiki/File:Infobox_info_icon.svg
 
 The Scratch Wiki, for the "external link" icon
