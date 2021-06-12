@@ -1,0 +1,53 @@
+* {
+    transition: all 0.05s ease;
+}
+body {
+        background-color:#ffc93e;
+        font-family: 'Roboto';
+        color: #603813;
+        position: relative;
+    }
+    button {
+    background-color:#603813;
+  border: none;
+  color:#ffc93e;
+  width: 759px;
+  height: 159px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 75px;
+  margin: 0px 0px;
+  cursor: pointer;
+  border-radius: 4px;
+ position: relative;
+ TOP:50px;
+  }
+    button:hover {
+  background-color: #854e1b;
+  color:#ffce53;
+    }
+
+    .infobox {
+        background-color: white;
+        filter:opacity(95%);
+        width:500px;
+        height:500px;
+        /* Center vertically and horizontally */
+        position:fixed;
+        bottom:200;
+        right: 650;
+        margin: -25px 0 0 -25px; /* apply negative top and left margins to truly center the element */
+        display: visible;
+        z-index: 1000;
+        border-style: outset;
+      }
+      .child {
+        width: 500px;
+        height: 475px;
+        /* Center vertically and horizontally */
+        position: fixed;
+        top:25px;
+        left:0;
+        /* margin: -25px 0 0 -25px; /* apply negative top and left margins to truly center the element */
+      }
